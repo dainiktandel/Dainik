@@ -1,0 +1,164 @@
+[DEBUG] 24-Apr-2016 17:53:02 Class:SnakesAndLaddersStart Method:board Line:8 
+
+			Welcome Snakes and Ladders[INFO] 24-Apr-2016 17:53:02 Class:SnakesAndLaddersStart Method:main Line:19 
+	Do you want to play Game Y or N. : [INFO] 24-Apr-2016 17:53:08 Class:SnakesAndLaddersStart Method:mainMethod Line:20 
+	User Rolled : 3
+[INFO] 24-Apr-2016 17:53:08 Class:SnakesAndLaddersStart Method:mainMethod Line:23 
+	Try again until you get 6 : [INFO] 24-Apr-2016 17:53:09 Class:SnakesAndLaddersStart Method:mainMethod Line:20 
+	User Rolled : 1
+[INFO] 24-Apr-2016 17:53:09 Class:SnakesAndLaddersStart Method:mainMethod Line:23 
+	Try again until you get 6 : [INFO] 24-Apr-2016 17:53:10 Class:SnakesAndLaddersStart Method:mainMethod Line:20 
+	User Rolled : 6
+[INFO] 24-Apr-2016 17:53:10 Class:SnakesAndLaddersStart Method:mainMethod Line:29 
+	Now you are Eligble to play Game.
+[INFO] 24-Apr-2016 17:53:10 Class:SnakesAndLaddersStart Method:mainMethod Line:30 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:10 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 1
+[INFO] 24-Apr-2016 17:53:10 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 1
+[INFO] 24-Apr-2016 17:53:10 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:11 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 4
+[INFO] 24-Apr-2016 17:53:11 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 5
+[INFO] 24-Apr-2016 17:53:11 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:11 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 5
+[INFO] 24-Apr-2016 17:53:11 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 10
+[INFO] 24-Apr-2016 17:53:11 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:11 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 4
+[INFO] 24-Apr-2016 17:53:11 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 14
+[INFO] 24-Apr-2016 17:53:11 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:12 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 4
+[INFO] 24-Apr-2016 17:53:12 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 18
+[INFO] 24-Apr-2016 17:53:12 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:12 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 6
+[INFO] 24-Apr-2016 17:53:12 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 24
+[INFO] 24-Apr-2016 17:53:12 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:12 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 4
+[INFO] 24-Apr-2016 17:53:12 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 28
+[INFO] 24-Apr-2016 17:53:12 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:13 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 2
+[INFO] 24-Apr-2016 17:53:13 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 30
+[INFO] 24-Apr-2016 17:53:13 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:13 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 5
+[INFO] 24-Apr-2016 17:53:13 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 35
+[INFO] 24-Apr-2016 17:53:13 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:13 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 2
+[INFO] 24-Apr-2016 17:53:13 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 37
+[INFO] 24-Apr-2016 17:53:13 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:13 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 6
+[INFO] 24-Apr-2016 17:53:13 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 43
+[INFO] 24-Apr-2016 17:53:13 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:13 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 2
+[INFO] 24-Apr-2016 17:53:13 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 45
+[INFO] 24-Apr-2016 17:53:13 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:14 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 4
+[INFO] 24-Apr-2016 17:53:14 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 49
+[INFO] 24-Apr-2016 17:53:14 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:14 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 5
+[INFO] 24-Apr-2016 17:53:14 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 54
+[INFO] 24-Apr-2016 17:53:14 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:14 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 5
+[INFO] 24-Apr-2016 17:53:14 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 59
+[INFO] 24-Apr-2016 17:53:14 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:14 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 5
+[INFO] 24-Apr-2016 17:53:14 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 64
+[INFO] 24-Apr-2016 17:53:14 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:15 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 1
+[INFO] 24-Apr-2016 17:53:15 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 65
+[INFO] 24-Apr-2016 17:53:15 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:15 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 1
+[INFO] 24-Apr-2016 17:53:15 Class:SnakesAndLaddersStart Method:userPossitioncheck Line:33 
+	User possition : 66
+[INFO] 24-Apr-2016 17:53:15 Class:SnakesAndLaddersStart Method:userPossitioncheck Line:35 
+	 You got bit by Snake, Go down.
+[INFO] 24-Apr-2016 17:53:15 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 43
+[INFO] 24-Apr-2016 17:53:15 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:15 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 2
+[INFO] 24-Apr-2016 17:53:15 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 45
+[INFO] 24-Apr-2016 17:53:15 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:15 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 4
+[INFO] 24-Apr-2016 17:53:15 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 49
+[INFO] 24-Apr-2016 17:53:15 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:15 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 2
+[INFO] 24-Apr-2016 17:53:15 Class:SnakesAndLaddersStart Method:userPossitioncheck Line:42 
+	User possition : 51
+[INFO] 24-Apr-2016 17:53:15 Class:SnakesAndLaddersStart Method:userPossitioncheck Line:44 
+	 You Got A Ladder!! GO UP!!
+[INFO] 24-Apr-2016 17:53:15 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 83
+[INFO] 24-Apr-2016 17:53:15 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:16 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 5
+[INFO] 24-Apr-2016 17:53:16 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 88
+[INFO] 24-Apr-2016 17:53:16 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:16 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 6
+[INFO] 24-Apr-2016 17:53:16 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 94
+[INFO] 24-Apr-2016 17:53:16 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:16 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 3
+[INFO] 24-Apr-2016 17:53:16 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 97
+[INFO] 24-Apr-2016 17:53:16 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:16 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 4
+[WARN] 24-Apr-2016 17:53:16 Class:SnakesAndLaddersStart Method:userPossitioncheck Line:54 
+	 Your possition goes more then 100. Dice throw again.
+[INFO] 24-Apr-2016 17:53:16 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 97
+[INFO] 24-Apr-2016 17:53:16 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:17 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 3
+[INFO] 24-Apr-2016 17:53:17 Class:SnakesAndLaddersStart Method:userPossitioncheck Line:58 
+	 Congratulation You won Game.
+[INFO] 24-Apr-2016 17:53:17 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 100
+[INFO] 24-Apr-2016 17:53:17 Class:SnakesAndLaddersStart Method:mainMethod Line:44 
+	Do you want to play again Y or N : [INFO] 24-Apr-2016 17:53:17 Class:SnakesAndLaddersStart Method:mainMethod Line:46 
+
+[INFO] 24-Apr-2016 17:53:17 Class:SnakesAndLaddersStart Method:mainMethod Line:37 
+	User Rolled    : 3
+[INFO] 24-Apr-2016 17:53:17 Class:SnakesAndLaddersStart Method:mainMethod Line:40 
+	User possition : 4
+[INFO] 24-Apr-2016 17:53:17 Class:SnakesAndLaddersStart Method:mainMethod Line:50 
+	Do you want to play again Y or N : 
